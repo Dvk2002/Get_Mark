@@ -9,3 +9,5 @@
 Данные : https://archive.ics.uci.edu/ml/datasets/Badges
 
 Получить образ контейнера : docker pull dvk2002/mark
+
+Клиент : localhost:5002
