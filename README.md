@@ -3,6 +3,7 @@
 Задача состоит в эммулировании маркировки имени неизвестным алгоритмом
 
 Библиотеки : sklearn, pandas, numpy, shap, flask
+
 Модель : CatBoostClassifier
 Данные : https://archive.ics.uci.edu/ml/datasets/Badges
 
